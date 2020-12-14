@@ -1,0 +1,30 @@
+h1{
+    color:red
+}
+
+h2{
+    color:yellow
+}
+
+h3{
+    color:purple
+}
+
+img{
+    border: black solid 10px;
+}
+.header{
+    background-color: blue;
+    border: black solid 5px;
+}
+.haha{
+    background-color: red;
+    border: black solid 5px;
+}
+
+.blah{
+    background-color: royalblue;
+    border: black dotted 4px;
+    display: flex;
+    justify-content: space-evenly;
+}
